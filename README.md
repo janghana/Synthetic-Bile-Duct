@@ -1,7 +1,13 @@
 # Bi-Directional Enhancement of Medical Images using MRI-T1 and CT Data:An Adversarial Diffusion Approach
 
 <figure>
-    <img src='./figures/figure1.png' />
+    <img src='./figures/figure2_1.png' />
+    <figcaption>Adversarial Diffusion Process</figcaption>
+</figure>
+
+
+<figure>
+    <img src='./figures/figure2_2.png' />
     <figcaption>Adversarial Diffusion Process</figcaption>
 </figure>
 
