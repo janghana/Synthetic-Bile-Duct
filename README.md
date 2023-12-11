@@ -1,4 +1,4 @@
-# Bi-Directional Enhancement of Medical Images using MRI-T1 and CT Data:An Adversarial Diffusion Approach
+# AI Technology Development for Bile Duct Imaging Synthesis Based on CT
 
 <figure>
     <img src='./figures/figure2_1.png' />
