@@ -8,7 +8,7 @@
 
 <figure>
     <img src='./figures/figure2_2.png' />
-    <figcaption>Adversarial Diffusion Process</figcaption>
+    <figcaption>Adversarial Diffusion Projector</figcaption>
 </figure>
 
 ## Abstract
